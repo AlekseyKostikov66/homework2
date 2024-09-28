@@ -4,8 +4,8 @@ print(name)
 age = 58
 print(age)
 
-newAge = age + 1
-print(newAge)
+new_age = age + 1
+print(new_age)
 
-IsStudent = True
-print(IsStudent)
+is_student = True
+print(is_student)
